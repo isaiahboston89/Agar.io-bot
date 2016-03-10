@@ -21,9 +21,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
 // ==UserScript==
-// @name        AposBot
+// @name        isaiahboston
 // @namespace   AposBot
-// @include     http://agar.io/*
+// @include     http://agarioo.site/*
 // @version     3.645
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
